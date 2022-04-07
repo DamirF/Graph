@@ -1,0 +1,16 @@
+D:\Projects\Graph\bin\Debug\netcoreapp3.1\Graph.exe
+D:\Projects\Graph\bin\Debug\netcoreapp3.1\Graph.deps.json
+D:\Projects\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.json
+D:\Projects\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.dev.json
+D:\Projects\Graph\bin\Debug\netcoreapp3.1\Graph.dll
+D:\Projects\Graph\bin\Debug\netcoreapp3.1\Graph.pdb
+D:\Projects\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.AssemblyReference.cache
+D:\Projects\Graph\obj\Debug\netcoreapp3.1\Graph.MainForm.resources
+D:\Projects\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.GenerateResource.cache
+D:\Projects\Graph\obj\Debug\netcoreapp3.1\Graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfoInputs.cache
+D:\Projects\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfo.cs
+D:\Projects\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CoreCompileInputs.cache
+D:\Projects\Graph\obj\Debug\netcoreapp3.1\Graph.dll
+D:\Projects\Graph\obj\Debug\netcoreapp3.1\Graph.pdb
+D:\Projects\Graph\obj\Debug\netcoreapp3.1\Graph.genruntimeconfig.cache
